@@ -4,7 +4,8 @@ This is a software that is designed to fetch a specific course's information fro
 
 
 ## Download
-This software can not downloaded at my github [repository](https://github.com/Timiport/OSCAR-to-Google-and-MSCalendar)
+This software can not downloaded at my github repository
+* https://github.com/Timiport/OSCAR-to-Google-and-MSCalendar
 
 ## Get Started
 1. Launch the program by clicking `Calendar-Converter.exe`
