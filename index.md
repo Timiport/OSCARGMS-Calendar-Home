@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# OSCAR to Google and MSCalendar Converter
 
-You can use the [editor on GitHub](https://github.com/Timiport/OSGMS-Calendar-Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a software that is designed to fetch a specific course's information from Georgia Tech's OSCAR website and convert it into an event in Google or Microsoft Calendar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Get Started
+1. Launch the program by clicking `Calendar-Converter.exe`
 
-### Markdown
+2. Click one of the options in the login window to login to either Google or Microsoft calendar.
+Then you will be greeted by this screen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](window.PNG)
 
-```markdown
-Syntax highlighted code block
+3. Select course subject, fill in course number, and choose semester and click `Get Course`
 
-# Header 1
-## Header 2
-### Header 3
+4. From the list of courses in the table, select the course you registered, and click `Convert to Calendar`
 
-- Bulleted
-- List
+5. And that's all.
 
-1. Numbered
-2. List
+## Privacy Disclosure
+### User Data
+To improve efficiency, this software will generate `token.json` if user login with Google Calendar or `o365_token.txt` if user login with Microsoft calendar. 
 
-**Bold** and _Italic_ and `Code` text
+With this temporary token, user does not need to login the next time when launching this software.
 
-[Link](url) and ![Image](src)
-```
+Note: this token is only temporary and will expire after a period of time.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Privacy policy
+The tokens generated above is only stored **locally**.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Timiport/OSGMS-Calendar-Home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This software will **NOT** upload or share this token or any user's data with any party.
+For more information, please view this software's [privacy policy](https://timiport.github.io/OSGMSCalendar-Privacy-Policy/)
