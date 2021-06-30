@@ -28,4 +28,5 @@ Note: this token is only temporary and will expire after a period of time.
 The tokens generated above is only stored **locally**.
 
 This software will **NOT** upload or share this token or any user's data with any party.
-For more information, please view this software's [privacy policy](https://timiport.github.io/OSGMSCalendar-Privacy-Policy/)
+For more information, please view this software's privacy policy
+* https://timiport.github.io/OSGMSCalendar-Privacy-Policy/
