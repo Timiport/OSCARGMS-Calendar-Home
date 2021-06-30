@@ -33,4 +33,4 @@ The tokens generated above is only stored **locally**.
 
 This software will **NOT** upload or share this token or any user's data with any party.
 For more information, please view this software's privacy policy
-* <https://timiport.github.io/OSGMSCalendar-Privacy-Policy/>
+* [https://timiport.github.io/OSGMSCalendar-Privacy-Policy/](https://timiport.github.io/OSGMSCalendar-Privacy-Policy/)
