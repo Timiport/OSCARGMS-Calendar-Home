@@ -4,10 +4,12 @@ This is a software that is designed to fetch a specific course's information fro
 
 
 ## Download
-This software can not downloaded at my github repository
+This software can be downloaded at my github repository
 * [https://github.com/Timiport/OSCAR-to-Google-and-MSCalendar](https://github.com/Timiport/OSCAR-to-Google-and-MSCalendar)
 
 ## Get Started
+0. Make sure you have `scrapy` installed in your machine
+
 1. Launch the program by clicking `Calendar-Converter.exe`
 
 2. Click one of the options in the login window to login to either Google or Microsoft calendar.
